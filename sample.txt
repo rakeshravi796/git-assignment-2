@@ -1,0 +1,11 @@
+1.	Initialize a local Git repository
+2.	Create a simple text file with 5-10 lines of content
+3.	Add the file to staging and make an initial commit
+4.	Make 3 separate meaningful changes to the file, committing each change with a proper commit message following Conventional Commits format
+5.	Use git log to view the history of changes
+6.	Use git diff to examine differences between commits
+Deliverables:
+•	Repository with commit history
+•	Screenshot of git log output
+•	Brief explanation of the changes made in each commit
+•	All of these must be present in your Readme.md
