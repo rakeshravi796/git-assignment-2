@@ -8,4 +8,4 @@ Deliverables:
 •	Repository with commit history
 •	Screenshot of git log output
 •	Brief explanation of the changes made in each commit
-•	All of these must be present in your Readme.md
+
