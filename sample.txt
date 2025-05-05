@@ -4,8 +4,3 @@
 4.	Make 3 separate meaningful changes to the file, committing each change with a proper commit message following Conventional Commits format
 5.	Use git log to view the history of changes
 6.	Use git diff to examine differences between commits
-Deliverables:
-•	Repository with commit history
-•	Screenshot of git log output
-•	Brief explanation of the changes made in each commit
-This is the last line
